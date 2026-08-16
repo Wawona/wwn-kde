@@ -20,6 +20,6 @@ waypipe** for the complete Plasma desktop (heavy). Individual Qt/KDE apps
    sandbox-safe dirs; prefer per-app clients over full Plasma on-device.
 3. Primary-selection + xdg-decoration semantics verified against Wawona.
 4. Replace `dependencies/kde/stub.nix` per platform; expose `kde-*`; register.
-5. `wwn-apt` lists `kde` `status: planned` → `approved` post-review.
+5. Port plan lists `kde` `status: planned` → `approved` post-review.
 
 Convention: [wwn-* porting convention](https://github.com/Wawona/Wawona/blob/main/docs/2026-wwn-porting-convention.md).
